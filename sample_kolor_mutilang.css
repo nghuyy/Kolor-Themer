@@ -1,0 +1,17 @@
+﻿/*tit:Color Theme for Watch Fit*/
+/*auth:Huy Nguyen*/
+/*link:git@github.com:nghuyy/Kolor_Themer.git*/
+/*note:Watch Fit*/
+/*ver:1.0*/
+
+/* Cardview Background */
+/*vi:Màu nền thẻ chọn*/
+.card_bg {
+    color: #F5F5F5
+}
+
+/* Cardview Step Text Color */
+/*vi:Màu chữ Bước chân*/
+.card_steps_text {
+    color: #233C14
+}
