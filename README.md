@@ -19,6 +19,14 @@ With note and name (for parsing to application)
   color:#FFFFF
 }
 
+Mutilang:
+/* Background1 */
+/*cn:背景 */
+/*vi:Màu nền*/
+.at1{
+  color:#FFFFF
+}
+
 ```
 
 3. Note:
