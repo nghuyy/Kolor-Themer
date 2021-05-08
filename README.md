@@ -6,10 +6,28 @@ This project for Color Themer Idea using css style
 2. Only support css color node like:
 
 ```  
+With note
 /* Background1 */
-bg1{
+{
   color:#FFFFF
 }
+
+With note and name (for parsing to application)
+
+/* Background1 */
+.at1{
+  color:#FFFFF
+}
+
+```
+
+3. Note:
+```
+/*tit: Text */ Title of theme
+/*auth: */ Author name
+/*link: */ Link note for this theme
+/*note:Adobe Trends Sample https://color.adobe.com/trends*/ A short note with less than 10000 charactor
+/*ver:1.0*/ Version of file
 ```
 
 With this file, we can design with all standard css support color picker like: Webstorm, Visual Studio ... 
