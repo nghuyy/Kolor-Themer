@@ -20,6 +20,7 @@ Convert adobe colorwheel to css
 
 Licsence MIT
 
+```
 Copyright (c) 2021 <huynguyen@vnapps.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
