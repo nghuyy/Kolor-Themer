@@ -41,7 +41,7 @@ Mutilang:
 ```
 + For create and share color palette
 + For note, create theme application
-+ Parsing form appp
++ Parsing form app
 + Include to web css (❤)
 ```
 
