@@ -29,6 +29,13 @@ With note and name (for parsing to application)
 /*note:Adobe Trends Sample https://color.adobe.com/trends*/ A short note with less than 10000 charactor
 /*ver:1.0*/ Version of file
 ```
+4. Using
+```
++ For create and share color palette
++ For note, create theme application
++ Parsing form appp
++ Include to web css (❤)
+```
 
 With this file, we can design with all standard css support color picker like: Webstorm, Visual Studio ... 
 
