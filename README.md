@@ -40,6 +40,7 @@ With note and name (for parsing to application)
 With this file, we can design with all standard css support color picker like: Webstorm, Visual Studio ... 
 
 Todo:
+
 Convert adobe colorwheel to css
 
 
